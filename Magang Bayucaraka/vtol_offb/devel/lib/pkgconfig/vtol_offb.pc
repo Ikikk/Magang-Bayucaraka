@@ -1,0 +1,8 @@
+prefix=/home/rizky/Documents/Magang Bayucaraka/vtol_offb/devel
+
+Name: vtol_offb
+Description: Description of vtol_offb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

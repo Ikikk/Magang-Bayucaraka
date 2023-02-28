@@ -1,0 +1,8 @@
+prefix=/home/rizky/Documents/Magang Bayucaraka/finalproject/install
+
+Name: finalproject
+Description: Description of finalproject
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

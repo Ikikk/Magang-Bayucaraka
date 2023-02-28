@@ -1,0 +1,8 @@
+prefix=/home/rizky/Documents/Magang Bayucaraka/latihanpubsub/install
+
+Name: latihanpubsub
+Description: Description of latihanpubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

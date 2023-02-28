@@ -1,0 +1,2 @@
+latihanpubsub
+-DCATKIN_DEVEL_PREFIX=/home/rizky/Documents/Magang Bayucaraka/latihanpubsub/devel -DCMAKE_INSTALL_PREFIX=/home/rizky/Documents/Magang Bayucaraka/latihanpubsub/install -G Unix Makefiles

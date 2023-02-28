@@ -1,0 +1,2 @@
+vtol_offb
+-DCATKIN_DEVEL_PREFIX=/home/rizky/Documents/Magang Bayucaraka/vtol_offb/devel -DCMAKE_INSTALL_PREFIX=/home/rizky/Documents/Magang Bayucaraka/vtol_offb/install -G Unix Makefiles
